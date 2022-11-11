@@ -5,7 +5,7 @@
 :bell: Informações:
 
 Efeito Gradiente para plano de fundo usando HTML e CSS<br>
-site: https://flaviomartinsjr.github.io/Efeito_Gradiente/
+site: https://flaviomartinsjr.github.io/EfeitoGradiente/
 ##
 
 <li>Preview</li><br>
