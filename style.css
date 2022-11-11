@@ -3,8 +3,6 @@ h1{
     font-size: 36px;
     letter-spacing: 2px;
     color: white;
-    overflow-y: hidden;
-    overflow-y: hidden;
     -webkit-text-stroke-color: whitesmoke;
     -webkit-text-stroke-width: 2px;
 }
@@ -16,6 +14,8 @@ h1{
     align-items: center;
     /* fim da propriedade do flexbox*/
 
+    overflow-y: hidden;
+    overflow-y: hidden;
     height: 100vh;
     width: 100vw;
 
