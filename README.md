@@ -14,7 +14,7 @@ site:
 
   | Screen Tela |
   |---|
-  |<img  src="/Efeito_Gradiente/src/Home.png" alt="tela de inicio"/> | 
+  |<img  src="/Efeito_Gradiente/src/ezgif.com-gif-maker.gif" alt="tela de inicio"/> | 
 </div></ol>
 
 ##
