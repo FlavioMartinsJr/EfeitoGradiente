@@ -23,7 +23,7 @@ h1{
     width: 100vw;
 
     /*enfeito de cores fundo*/
-    background: linear-gradient(90deg,#181d31,#678983,#e6ddc4,#f0e7ce);
+    background: linear-gradient(45deg,#181d31,#678983,#e6ddc4,#f0e7ce);
     background-size: 300% 300%;
     animation: colors 8s ease infinite;
     /*fim do efeito*/
